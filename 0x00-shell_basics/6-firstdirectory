@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p /tmp/my_first_directory
+mkdir 7-movethatfile /tmp/my_first_directory
