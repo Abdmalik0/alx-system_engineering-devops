@@ -1,2 +1,3 @@
 #!/bin/bash
-mv 7-movethatfile /tmp/my_first_directory
+touch betty
+mv betty /tmp/my_first_directory
